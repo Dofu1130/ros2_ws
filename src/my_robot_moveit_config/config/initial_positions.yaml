@@ -1,0 +1,10 @@
+# Default initial positions for my_robot's ros2_control fake system
+
+initial_positions:
+  gripper_left_finger_joint: 0
+  joint1_base_shoulder: 0
+  joint2_shoulder_arm: 0
+  joint3_arm_elbow: 0
+  joint4_elbow_forearm: 0
+  joint5_forearm_wrist: 0
+  joint6_wrist_hand: 0
